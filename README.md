@@ -7,7 +7,7 @@ This project includes smooth transitions, responsive design, and a mock Google S
 
 ## Live Demo
 
-**[View Live Demo](https://yourusername.github.io/portfolio/)**  
+**[View Live Demo](https://deeptisingh27.github.io/login-and-signup-page/)**  
 
 ---
 
@@ -53,4 +53,6 @@ This project includes smooth transitions, responsive design, and a mock Google S
 
 **Deepti Singh**  
 Responsive Login & Signup Page – Frontend UI Project
+
+
 [GitHub](https://github.com/deeptisingh27) | [LinkedIn](https://www.linkedin.com/in/deeptisingh27/)
